@@ -1,0 +1,13 @@
+.app {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.train {
+    /* display:flex; */
+    justify-content: center;
+    margin-top: 20px;
+  
+   
+   text-align: center;
+   border: 2px solid black;
+}

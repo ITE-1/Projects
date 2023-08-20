@@ -1,0 +1,40 @@
+ul, li {
+  list-style-type: none;
+  
+}
+
+
+.App {
+  text-align: center;
+}
+
+.header {
+  max-width: 1200px;
+
+  margin: 0 auto;
+}
+.header-row {
+  
+  padding: 15px;
+  background-color: cornflowerblue;
+  display:flex;
+  justify-content: space-around;
+}
+.header-logo {
+
+  background-color: white;
+  padding: 10px 15px;
+}
+
+.header-nav {
+
+}
+.nav-list {
+  display: flex;
+  column-gap: 20px;
+  color: #fff;
+
+}
+.nav-item {
+ 
+}

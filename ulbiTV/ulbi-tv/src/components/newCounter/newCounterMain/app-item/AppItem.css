@@ -1,0 +1,16 @@
+
+.app-item {
+    max-width: 750px;
+  display: flex;  
+  column-gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-item h1, h2 {
+    font-size: 22px;
+}
+
+.btn {
+    padding: 5px 10px;
+}
